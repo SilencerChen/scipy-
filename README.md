@@ -8,3 +8,6 @@ windows下安装scipy报错：
   scipy需要对numpy和mkl的依赖
   whl直接提供numpy+mkl
   直接pip install numpy可能不包含mkl的安装
+
+找不到past:
+  pip install future

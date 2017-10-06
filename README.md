@@ -11,3 +11,5 @@ windows下安装scipy报错：
 
 找不到past:
   pip install future
+  
+'NoneType' object has no attribute 'shape'？？？
